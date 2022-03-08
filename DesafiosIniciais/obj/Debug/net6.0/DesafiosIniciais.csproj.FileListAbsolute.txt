@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\bin\Debug\net6.0\DesafiosIniciais.exe
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\bin\Debug\net6.0\DesafiosIniciais.deps.json
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\bin\Debug\net6.0\DesafiosIniciais.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\bin\Debug\net6.0\DesafiosIniciais.dll
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\bin\Debug\net6.0\ref\DesafiosIniciais.dll
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\bin\Debug\net6.0\DesafiosIniciais.pdb
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\DesafiosIniciais.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\DesafiosIniciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\DesafiosIniciais.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\DesafiosIniciais.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\DesafiosIniciais.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\DesafiosIniciais.dll
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\ref\DesafiosIniciais.dll
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\DesafiosIniciais.pdb
+C:\Users\julio\Desktop\Estudos\C#\DesafiosIniciais\obj\Debug\net6.0\DesafiosIniciais.genruntimeconfig.cache

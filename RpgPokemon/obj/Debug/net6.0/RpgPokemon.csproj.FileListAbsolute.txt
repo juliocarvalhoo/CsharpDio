@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\bin\Debug\net6.0\RpgPokemon.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\bin\Debug\net6.0\RpgPokemon.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\bin\Debug\net6.0\RpgPokemon.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\bin\Debug\net6.0\RpgPokemon.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\bin\Debug\net6.0\RpgPokemon.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\RpgPokemon.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\RpgPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\RpgPokemon.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\RpgPokemon.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\RpgPokemon.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\RpgPokemon.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\ref\RpgPokemon.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\RpgPokemon.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\RpgPokemon.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\RpgPokemon\obj\Debug\net6.0\refint\RpgPokemon.dll

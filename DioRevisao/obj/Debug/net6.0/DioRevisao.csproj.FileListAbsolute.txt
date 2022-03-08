@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\bin\Debug\net6.0\DioRevisao.exe
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\bin\Debug\net6.0\DioRevisao.deps.json
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\bin\Debug\net6.0\DioRevisao.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\bin\Debug\net6.0\DioRevisao.dll
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\bin\Debug\net6.0\ref\DioRevisao.dll
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\bin\Debug\net6.0\DioRevisao.pdb
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\DioRevisao.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\DioRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\DioRevisao.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\DioRevisao.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\DioRevisao.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\DioRevisao.dll
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\ref\DioRevisao.dll
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\DioRevisao.pdb
+C:\Users\julio\Desktop\Estudos\C#\DioRevisao\obj\Debug\net6.0\DioRevisao.genruntimeconfig.cache

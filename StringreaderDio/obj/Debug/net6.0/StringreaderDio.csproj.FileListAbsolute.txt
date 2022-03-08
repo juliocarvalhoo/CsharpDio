@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\bin\Debug\net6.0\StringreaderDio.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\bin\Debug\net6.0\StringreaderDio.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\bin\Debug\net6.0\StringreaderDio.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\bin\Debug\net6.0\StringreaderDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\bin\Debug\net6.0\StringreaderDio.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\StringreaderDio.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\StringreaderDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\StringreaderDio.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\StringreaderDio.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\StringreaderDio.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\StringreaderDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\refint\StringreaderDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\StringreaderDio.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\StringreaderDio.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\StringreaderDio\obj\Debug\net6.0\ref\StringreaderDio.dll

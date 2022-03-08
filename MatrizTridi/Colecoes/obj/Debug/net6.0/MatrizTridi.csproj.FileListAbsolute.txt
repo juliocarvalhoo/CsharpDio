@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\bin\Debug\net6.0\MatrizTridi.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\bin\Debug\net6.0\MatrizTridi.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\bin\Debug\net6.0\MatrizTridi.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\bin\Debug\net6.0\MatrizTridi.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\bin\Debug\net6.0\ref\MatrizTridi.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\bin\Debug\net6.0\MatrizTridi.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\MatrizTridi.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\MatrizTridi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\MatrizTridi.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\MatrizTridi.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\MatrizTridi.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\MatrizTridi.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\ref\MatrizTridi.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\MatrizTridi.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\MatrizTridimensional\MatrizTridi\obj\Debug\net6.0\MatrizTridi.genruntimeconfig.cache

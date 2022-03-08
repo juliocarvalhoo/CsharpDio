@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\RpgProject.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\RpgProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\RpgProject.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\RpgProject.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\RpgProject.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\bin\Debug\net6.0\RpgProject.exe
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\bin\Debug\net6.0\RpgProject.deps.json
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\bin\Debug\net6.0\RpgProject.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\bin\Debug\net6.0\RpgProject.dll
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\bin\Debug\net6.0\ref\RpgProject.dll
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\bin\Debug\net6.0\RpgProject.pdb
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\RpgProject.dll
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\ref\RpgProject.dll
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\RpgProject.pdb
+C:\Users\julio\Desktop\Estudos\C#\Projeto\RpgProject\obj\Debug\net6.0\RpgProject.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\bin\Debug\net6.0\EventsDio.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\bin\Debug\net6.0\EventsDio.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\bin\Debug\net6.0\EventsDio.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\bin\Debug\net6.0\EventsDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\bin\Debug\net6.0\ref\EventsDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\bin\Debug\net6.0\EventsDio.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\EventsDio.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\EventsDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\EventsDio.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\EventsDio.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\EventsDio.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\EventsDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\ref\EventsDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\EventsDio.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\EventsDio\obj\Debug\net6.0\EventsDio.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\bin\Debug\net6.0\DiretoriosDio.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\bin\Debug\net6.0\DiretoriosDio.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\bin\Debug\net6.0\DiretoriosDio.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\bin\Debug\net6.0\DiretoriosDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\bin\Debug\net6.0\ref\DiretoriosDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\bin\Debug\net6.0\DiretoriosDio.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\DiretoriosDio.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\DiretoriosDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\DiretoriosDio.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\DiretoriosDio.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\DiretoriosDio.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\DiretoriosDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\ref\DiretoriosDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\DiretoriosDio.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\DiretoriosDio\obj\Debug\net6.0\DiretoriosDio.genruntimeconfig.cache

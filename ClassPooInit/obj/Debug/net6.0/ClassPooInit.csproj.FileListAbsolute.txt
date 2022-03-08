@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\bin\Debug\net6.0\ClassPooInit.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\bin\Debug\net6.0\ClassPooInit.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\bin\Debug\net6.0\ClassPooInit.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\bin\Debug\net6.0\ClassPooInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\bin\Debug\net6.0\ref\ClassPooInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\bin\Debug\net6.0\ClassPooInit.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ClassPooInit.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ClassPooInit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ClassPooInit.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ClassPooInit.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ClassPooInit.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ClassPooInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ref\ClassPooInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ClassPooInit.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\ClassPooInit\obj\Debug\net6.0\ClassPooInit.genruntimeconfig.cache

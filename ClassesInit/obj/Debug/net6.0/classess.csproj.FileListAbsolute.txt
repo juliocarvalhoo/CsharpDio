@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#\classess\bin\Debug\net6.0\classess.exe
+C:\Users\julio\Desktop\Estudos\C#\classess\bin\Debug\net6.0\classess.deps.json
+C:\Users\julio\Desktop\Estudos\C#\classess\bin\Debug\net6.0\classess.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#\classess\bin\Debug\net6.0\classess.dll
+C:\Users\julio\Desktop\Estudos\C#\classess\bin\Debug\net6.0\ref\classess.dll
+C:\Users\julio\Desktop\Estudos\C#\classess\bin\Debug\net6.0\classess.pdb
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\classess.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\classess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\classess.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\classess.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\classess.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\classess.dll
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\ref\classess.dll
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\classess.pdb
+C:\Users\julio\Desktop\Estudos\C#\classess\obj\Debug\net6.0\classess.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\CsvDio.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\CsvDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\CsvDio.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\CsvDio.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\CsvDio.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\bin\Debug\net6.0\CsvDio.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\bin\Debug\net6.0\CsvDio.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\bin\Debug\net6.0\CsvDio.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\bin\Debug\net6.0\CsvDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\bin\Debug\net6.0\CsvDio.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\CsvDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\refint\CsvDio.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\CsvDio.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\CsvDio.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\CsvDio\obj\Debug\net6.0\ref\CsvDio.dll

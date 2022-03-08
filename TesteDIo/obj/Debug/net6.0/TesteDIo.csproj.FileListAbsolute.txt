@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\TesteDIo.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\TesteDIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\TesteDIo.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\TesteDIo.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\TesteDIo.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\bin\Debug\net6.0\TesteDIo.exe
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\bin\Debug\net6.0\TesteDIo.deps.json
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\bin\Debug\net6.0\TesteDIo.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\bin\Debug\net6.0\TesteDIo.dll
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\bin\Debug\net6.0\ref\TesteDIo.dll
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\bin\Debug\net6.0\TesteDIo.pdb
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\TesteDIo.dll
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\ref\TesteDIo.dll
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\TesteDIo.pdb
+C:\Users\julio\Desktop\Estudos\C#\TesteDIo\obj\Debug\net6.0\TesteDIo.genruntimeconfig.cache

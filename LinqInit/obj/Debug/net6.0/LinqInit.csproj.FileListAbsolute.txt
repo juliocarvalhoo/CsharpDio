@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\LinqInit.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\LinqInit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\LinqInit.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\LinqInit.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\LinqInit.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\bin\Debug\net6.0\LinqInit.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\bin\Debug\net6.0\LinqInit.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\bin\Debug\net6.0\LinqInit.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\bin\Debug\net6.0\LinqInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\bin\Debug\net6.0\ref\LinqInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\bin\Debug\net6.0\LinqInit.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\LinqInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\ref\LinqInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\LinqInit.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\LinqInit\obj\Debug\net6.0\LinqInit.genruntimeconfig.cache

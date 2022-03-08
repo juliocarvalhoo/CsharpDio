@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\bin\Debug\net6.0\DictionaryInit.exe
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\bin\Debug\net6.0\DictionaryInit.deps.json
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\bin\Debug\net6.0\DictionaryInit.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\bin\Debug\net6.0\DictionaryInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\bin\Debug\net6.0\ref\DictionaryInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\bin\Debug\net6.0\DictionaryInit.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\DictionaryInit.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\DictionaryInit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\DictionaryInit.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\DictionaryInit.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\DictionaryInit.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\DictionaryInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\ref\DictionaryInit.dll
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\DictionaryInit.pdb
+C:\Users\julio\Desktop\Estudos\C#Dio\DictionaryInit\obj\Debug\net6.0\DictionaryInit.genruntimeconfig.cache
