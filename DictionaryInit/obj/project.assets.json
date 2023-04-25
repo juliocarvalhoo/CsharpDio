@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\julio\\.nuget\\packages\\": {}
+    "C:\\Users\\julio\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julio\\Desktop\\Estudos\\C#Dio\\DictionaryInit\\DictionaryInit.csproj",
+      "projectUniqueName": "C:\\Users\\julio\\Desktop\\Estudos\\CsharpDio\\DictionaryInit\\DictionaryInit.csproj",
       "projectName": "DictionaryInit",
-      "projectPath": "C:\\Users\\julio\\Desktop\\Estudos\\C#Dio\\DictionaryInit\\DictionaryInit.csproj",
+      "projectPath": "C:\\Users\\julio\\Desktop\\Estudos\\CsharpDio\\DictionaryInit\\DictionaryInit.csproj",
       "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julio\\Desktop\\Estudos\\C#Dio\\DictionaryInit\\obj\\",
+      "outputPath": "C:\\Users\\julio\\Desktop\\Estudos\\CsharpDio\\DictionaryInit\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

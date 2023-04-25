@@ -2,57 +2,57 @@
 using ClassPooInit.Interfaces;
 using ClassPooInit.Models;
 using static System.Console;
-Main();
 
 
-static void Main()
-{
-        Pessoa p1 = new Pessoa();
-        p1.Name = "João";
-        p1.Age = 22;
 
-        p1.Apresentar();
 
-        Retangulo r1 = new Retangulo();
-        r1.DefinirMedidas(10, 10 );
-        
-        WriteLine("Area do apartamento de {0}: {1}",p1.Name,r1.ObterArea());
 
-        Aluno a1 = new Aluno();
-        a1.Name = "Alexandre";
-        a1.Age = 30;
-        a1.Score = 8.5;
+Pessoa p1 = new Pessoa();
+p1.Name = "João";
+p1.Age = 22;
 
-        Professor t1 = new Professor();
-        t1.Name = "Thiago";
-        t1.Age = 32;
-        t1.Wage = 1.249;
+p1.Apresentar();
 
-        a1.Apresentar();
-        t1.Apresentar();
+Retangulo r1 = new Retangulo();
+r1.DefinirMedidas(10, 10 );
 
-        Icalculadora calc = new Calculadora();
-        WriteLine(calc.Somar(5,6));
+WriteLine("Area do apartamento de {0}: {1}",p1.Name,r1.ObterArea());
 
-        FileHelper help = new FileHelper();
-        var caminho = @"C:\Users\julio\Desktop\Estudos\C#Dio\DirectoryEmpty";
-        help.Listardiretorios(caminho);
-        help.Listararquivos(caminho);
+Aluno a1 = new Aluno();
+a1.Name = "Alexandre";
+a1.Age = 30;
+a1.Score = 8.5;
 
-        WriteLine("\n");
-       
-        
-        help.CreatedDirectory(Path.Combine(caminho,"pasta 3","subpasta3","subsubpasta3"));
+Professor t1 = new Professor();
+t1.Name = "Thiago";
+t1.Age = 32;
+t1.Wage = 1.249;
 
-        var caminhoDelete = Path.Combine(caminho,"pasta 3");
+a1.Apresentar();
+t1.Apresentar();
 
-        help.DeleteDirectory(caminhoDelete,true);
+Icalculadora calc = new Calculadora();
+WriteLine(calc.Somar(5,6));
 
-        var caminhoFileText = Path.Combine(caminho,"goku.txt");
+FileHelper help = new FileHelper();
+var caminho = @"C:\Users\julio\Desktop\Estudos\C#Dio\DirectoryEmpty";
+help.Listardiretorios(caminho);
+help.Listararquivos(caminho);
 
-        help.CreatedFile(caminhoFileText,"Olá eu sou o Goku, Obrigado por abrir a Pasta, Seu mundo está a Salvo!");
+WriteLine("\n");
 
-}
+
+help.CreatedDirectory(Path.Combine(caminho,"pasta 3","subpasta3","subsubpasta3"));
+
+var caminhoDelete = Path.Combine(caminho,"pasta 3");
+
+help.DeleteDirectory(caminhoDelete,true);
+
+var caminhoFileText = Path.Combine(caminho,"goku.txt");
+
+help.CreatedFile(caminhoFileText,"Olá eu sou o Goku, Obrigado por abrir a Pasta, Seu mundo está a Salvo!");
+
+
 
 
 
